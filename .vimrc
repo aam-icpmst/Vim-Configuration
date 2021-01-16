@@ -1,9 +1,6 @@
 syntax enable
 colorscheme monokai
-set t_Co=256
-set background=dark
 set clipboard=unnamedplus
-set mouse=a
 set tabstop=4
 set autoindent
 set shiftwidth=4
