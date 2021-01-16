@@ -1,5 +1,5 @@
 # Vim-Configuration
-
+***
 ### .vimrc for Competitive Programming: [.vimrc](https://github.com/aam-icpmst/Vim-Configuration/blob/main/.vimrc)
 **`Usages:`**
 1. Open Linux Terminal in `/home` directory
@@ -11,3 +11,4 @@
 7. Press `Enter`
 
 That's it!
+***
