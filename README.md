@@ -1,2 +1,3 @@
 # Vim-Configuration
-Make your "Vim Editor" beautiful.
+
+# .vimrc for Competitive Programming: [.vimrc](https://github.com/aam-icpmst/Vim-Configuration/blob/main/.vimrc)
